@@ -1,0 +1,11 @@
+# Criteres
+- Gestion saisie
+  - Demander à l'utilisateur de recommencer
+  - Valeurs positives
+  - A et f différent de 0
+- Ouverture du fichier
+- Test du pointeur
+- Fermeture du fichier
+- Structure du fichier
+- Image présente
+- Qualité du code
